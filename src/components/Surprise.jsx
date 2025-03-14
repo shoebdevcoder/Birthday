@@ -23,7 +23,7 @@ const Surprise = () => {
         <img src={image} alt="Displayed" />
 
         {/* {message && <img src={no} />} */}
-        <h1 className="rounded p-2 mt-2">Are you ready for Surprise ?</h1>
+        <h1 className="rounded p-2 mt-2">Ready ?</h1>
         <div className="btn">
           <button id="btn-yes" onClick={handleYesClick}>
             Yes
