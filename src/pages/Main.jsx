@@ -45,7 +45,7 @@ const Main = () => {
         <source src="/public/audio/happy birthday.mp3" type="audio/mp3" />
         Your browser does not support the audio element.
       </audio>
-      <h1>Happy Birthday <br></br>Dr. Ayesha Fatema :)</h1>
+      <h1>Happy Birthday <br></br>Dr. Ayesha Fatema 🩺👩🏻‍⚕️:)</h1>
       <div className="image">
         <img src={bal} alt="" />
         <img src={hpb} alt="" />
